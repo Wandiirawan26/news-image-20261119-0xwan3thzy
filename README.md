@@ -1,3 +1,7 @@
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/Wandiirawan26/news-image-20261119-0xwan3thzy/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/Wandiirawan26/news-image-20261119-0xwan3thzy/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
 # News in One Image — 19 November 2026
 
 One image that sums up Thursday, 19 November 2026, like a newspaper front
@@ -8,14 +12,15 @@ feed needed.
 
 1. **Trump, Xi & Putin meet in Shenzhen** — the first-ever three-way summit
    of the US, Chinese and Russian presidents, held on the sidelines of APEC.
-   Ukraine tops the agenda.
+   Nuclear arms control and the Iran war top the agenda; Ukraine is not
+   expected to be discussed.
 2. **ICJ rules on the Rohingya genocide** — the International Court of
    Justice, the UN's highest court, rules on Gambia's genocide case against
    Myanmar.
-3. **Hormuz crisis hits oil** — Iran fires at US bases in Kuwait and
-   Bahrain, the US strikes a missile site on Qeshm Island, and a tanker is
-   hit in the Strait of Hormuz. The IEA calls it the greatest threat ever to
-   energy security.
+3. **Hormuz crisis hits oil** — tankers are struck by mines and projectiles
+   in the Strait of Hormuz as the US–Iran conflict roils the region's energy
+   corridors; shipping slows and the maritime threat level is severe. The IEA
+   calls it the greatest threat ever to energy security.
 4. **Bangladesh in turmoil** — Muhammad Yunus's ancestral home is set on
    fire and 28 districts are hit by violence after Sheikh Hasina is
    sentenced to death.
